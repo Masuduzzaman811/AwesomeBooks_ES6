@@ -1,21 +1,20 @@
 {
-  "name": "awesomebooks_es6",
+  "name": "awesome-books-es6",
   "version": "1.0.0",
-  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Masuduzzaman811/AwesomeBooks_ES6.git"
+    "url": "git+https://github.com/Masuduzzaman811/Awesome-Books-ES6.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Masuduzzaman811/AwesomeBooks_ES6/issues"
+    "url": "https://github.com/Masuduzzaman811/Awesome-Books-ES6/issues"
   },
-  "homepage": "https://github.com/Masuduzzaman811/AwesomeBooks_ES6#readme"
+  "homepage": "https://github.com/Masuduzzaman811/Awesome-Books-ES6#readme"
 }
